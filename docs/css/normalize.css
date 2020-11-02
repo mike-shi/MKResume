@@ -90,9 +90,6 @@ a {
   background-color: transparent;
 }
 
-.no-bullet {
-  min-width: 220px;
-}
 /**
  * Improve readability of focused elements when they are also in an
  * active/hover state.
